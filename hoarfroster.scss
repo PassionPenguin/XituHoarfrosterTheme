@@ -48,6 +48,7 @@ $line-space: 22px;
                     1turn, rgba(60, 10, 30, .04) 3%, transparent 0);
     background-size: 20px 20px;
     background-position: 50%;
+    background-image: var(--backgroundColor);
 
     h1:before {
         content: ' ';
