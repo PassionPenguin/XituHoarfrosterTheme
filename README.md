@@ -1,4 +1,4 @@
-# juejin 默认主题
+# Hoarfroster 主题
 
 主题列表：https://github.com/xitu/juejin-markdown-themes
 
